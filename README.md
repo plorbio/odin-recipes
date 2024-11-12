@@ -1,1 +1,2 @@
-# odin-recipes
+# Intro + Skills demonstrated
+This project is an implementation of learning HTML. I did this by using hyperlinks, images, different types of lists, different levels of headers, and other basic HTML code.
